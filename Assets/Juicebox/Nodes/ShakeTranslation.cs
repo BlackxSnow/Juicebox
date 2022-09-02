@@ -1,7 +1,6 @@
 using UnityEditor.Experimental.GraphView;
-using UnityEngine;
 
-namespace Juicebox.Editor.Nodes
+namespace Juicebox.Nodes
 {
     public sealed class ShakeTranslation : JuiceNode
     {

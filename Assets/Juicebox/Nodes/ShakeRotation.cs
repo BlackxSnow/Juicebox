@@ -1,6 +1,6 @@
 using UnityEditor.Experimental.GraphView;
 
-namespace Juicebox.Editor.Nodes
+namespace Juicebox.Nodes
 {
     public sealed class ShakeRotation : JuiceNode
     {

@@ -1,6 +1,6 @@
 using System;
 using System.Collections.Generic;
-using Juicebox.Editor.Nodes;
+using Juicebox.Nodes;
 using UnityEditor.Experimental.GraphView;
 using UnityEngine;
 using UnityEngine.UIElements;
